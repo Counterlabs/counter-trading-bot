@@ -1,0 +1,99 @@
+2025-12-09 22:39:23.18
+4e3aacec
+User
+[Trading] Retry 2/2, waiting 4000ms...
+2025-12-09 22:39:23.18
+4e3aacec
+User
+[Trading] Attempt 1 failed: 429 Too Many Requests: {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests from you
+2025-12-09 22:39:23.18
+4e3aacec
+User
+[Trading] Attempt 1 failed: 429 Too Many Requests: {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests from you
+2025-12-09 22:39:23.18
+4e3aacec
+User
+[Trading] Retry 2/2, waiting 4000ms...
+2025-12-09 22:39:23.18
+4e3aacec
+User
+[Trading] Attempt 1 failed: 429 Too Many Requests: {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests from you
+2025-12-09 22:39:23.18
+4e3aacec
+User
+[Trading] Retry 2/2, waiting 4000ms...
+2025-12-09 22:39:23.18
+4e3aacec
+User
+[Trading] Retry 2/2, waiting 4000ms...
+2025-12-09 22:39:23.18
+4e3aacec
+User
+[Trading] Attempt 1 failed: 429 Too Many Requests: {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests from you
+2025-12-09 22:39:23.19
+4e3aacec
+User
+[Trading] Attempt 1 failed: 429 Too Many Requests: {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests from you
+2025-12-09 22:39:23.19
+4e3aacec
+User
+[Trading] Retry 2/2, waiting 4000ms...
+2025-12-09 22:39:27.08
+4e3aacec
+User
+Server responded with 429 Too Many Requests. Retrying after 500ms delay...
+2025-12-09 22:39:27.08
+4e3aacec
+User
+Server responded with 429 Too Many Requests. Retrying after 500ms delay...
+2025-12-09 22:39:27.08
+4e3aacec
+User
+Server responded with 429 Too Many Requests. Retrying after 500ms delay...
+
+2025-12-09 22:39:27.14
+4e3aacec
+User
+Server responded with 429 Too Many Requests. Retrying after 500ms delay...
+2025-12-09 22:39:27.16
+4e3aacec
+User
+Server responded with 429 Too Many Requests. Retrying after 500ms delay...
+2025-12-09 22:39:27.16
+4e3aacec
+User
+Server responded with 429 Too Many Requests. Retrying after 500ms delay...
+2025-12-09 22:39:27.16
+4e3aacec
+User
+Server responded with 429 Too Many Requests. Retrying after 500ms delay...
+2025-12-09 22:39:27.16
+4e3aacec
+User
+Server responded with 429 Too Many Requests. Retrying after 2000ms delay...
+2025-12-09 22:39:27.22
+4e3aacec
+User
+Server responded with 429 Too Many Requests. Retrying after 500ms delay...
+2025-12-09 22:39:27.25
+4e3aacec
+User
+Server responded with 429 Too Many Requests. Retrying after 500ms delay...
+2025-12-09 22:39:27.25
+4e3aacec
+User
+Server responded with 429 Too Many Requests. Retrying after 500ms delay...
+2025-12-09 22:39:27.25
+4e3aacec
+User
+Server responded with 429 Too Many Requests. Retrying after 500ms delay...
+2025-12-09 22:39:27.26
+4e3aacec
+User
+Server responded with 429 Too Many Requests. Retrying after 500ms delay...
+2025-12-09 22:39:27.26
+4e3aacec
+User
+Server responded with 429 Too Many Requests. Retrying after 500ms delay...
+2025-12-09 22:39:27.26
+4e3aac

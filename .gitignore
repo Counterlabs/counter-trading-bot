@@ -1,0 +1,15 @@
+node_modules
+dist
+.DS_Store
+server/public
+*.tar.gz
+
+# Config files to exclude
+.config/
+.upm/
+.cache/
+.local/
+.bun/
+package-lock.json
+*.clean.json
+*.clean.ts
