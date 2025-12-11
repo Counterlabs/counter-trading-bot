@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0] - 2024-12-11
+
+### Added
+- Custom AI model integration support
+- Pluggable LLM provider architecture
+- Model configuration dashboard
+
 ## [1.2.0] - 2024-12-11
 
 ### Added
